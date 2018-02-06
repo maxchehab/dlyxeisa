@@ -1,3 +1,5 @@
+// Credit goes to Victor Widell of https://github.com/geon
+
 "use strict";
 $(function () {
     var getTextNodesIn = function (el) {
