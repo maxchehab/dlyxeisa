@@ -1,0 +1,20 @@
+{
+    "name": "Dlyxeisa",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Dlyxeisa",
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_title": "Dlyxeisa"
+    },
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+        "tabs"
+    ]
+}
