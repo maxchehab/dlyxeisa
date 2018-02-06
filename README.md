@@ -13,3 +13,4 @@ Chrome extension that extends dyslexia.
 
 
 
+Credit goes to [Victor Widell](https://github.com/geon).
